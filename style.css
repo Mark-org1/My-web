@@ -1,0 +1,27 @@
+6body{
+    text-align: center;
+    gap: 3px;
+    min-height: 100vh;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    background-color: #d6e2f0;
+}
+.parent{
+    background-color: white;
+    width: 400px;
+    border-radius: 10px;
+    padding: 15px;
+}
+
+.child{
+    padding: 20px;
+    background-color:
+}
+
+img{
+    border-radius: 10px;
+   width: 100%
+    ;
+    
+} 
