@@ -1,4 +1,4 @@
-6body{
+body{
     text-align: center;
     gap: 3px;
     min-height: 100vh;
@@ -16,7 +16,7 @@
 
 .child{
     padding: 20px;
-    background-color:
+    background-color;
 }
 
 img{
